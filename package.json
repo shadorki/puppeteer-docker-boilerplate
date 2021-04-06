@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-docker-boilerplate",
+  "version": "1.0.0",
+  "description": "Run puppeteer in a docker container",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzair-ashraf/puppeteer-docker-boilerplate.git"
+  },
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "keywords": ["puppeteer", "docker", "boilerplate", "starter files"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzair-ashraf/puppeteer-docker-boilerplate/issues"
+  },
+  "homepage": "https://github.com/uzair-ashraf/puppeteer-docker-boilerplate#readme"
+}
