@@ -17,6 +17,4 @@ WORKDIR /app
 
 COPY . .
 
-RUN mkdir output
-
 CMD ["./run.sh"]
